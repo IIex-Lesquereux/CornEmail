@@ -21,7 +21,7 @@ const transporter = nodemailer.createTransport({
     // 发件人邮箱地址
     user: "chengyongliu@foxmail.com",
     // mtp 验证码 这个有了才可以发送邮件，以 QQ 邮箱为例：设置->账户->开启服务 (选择 POP3/SMTP 服务)->点击开启 (需要发送短信开启)->授权码生成。
-    pass: "coaypzgdnmozbaea",
+    pass: "xxxxxxxxxx",
   },
 });
 
